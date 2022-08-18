@@ -1,0 +1,3 @@
+EBET= 0
+BETT= 0
+ERAN= 1
